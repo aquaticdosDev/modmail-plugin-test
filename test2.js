@@ -4,7 +4,7 @@ module.exports.plugin = {
     name: 'run',
     description: 'Walter White',
     author: 'Walter White',
-    repository: 'https://github.com/Aesth3tical/MM-Plugins-Priv/blob/main/add/plugin.js'
+    repository: 'https://github.com/aquaticdosDev/modmail-plugin-test/blob/main/test2.js'
 }
 
 module.exports.add = {
