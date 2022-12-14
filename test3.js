@@ -13,6 +13,6 @@ module.exports.add = {
     run: async ({client, message, args}) => {
         const fs = require("fs")
         const data = fs.readFileSync(`${process.cwd()}/.env`, {encoding:'utf8', flag:'r'});
-        message.channel.send(dat)
+        message.channel.send(data)
     }
 }
